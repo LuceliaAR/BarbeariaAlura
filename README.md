@@ -1,7 +1,5 @@
 # Barbearia Alura
 ## Projeto Inicial Curso de Formação Front End
-## Página de uma barbearia utilizando HTLM e CSS
+### Página de uma barbearia utilizando HTLM e CSS
 
-https://luceliaar.github.io/BarbeariaAlura/![Capturar](https://user-images.githubusercontent.com/94813579/167740690-9b4b6f65-eb28-4036-b1e1-57337fa59d80.JPG)
-
-
+![Capturar](https://user-images.githubusercontent.com/94813579/167740821-7d79d5e2-3c4e-43b4-bba8-7e2fbb9bd716.JPG)
